@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>Vita Salute RSS Feed</title><link>https://vitasalute.github.io</link><description>Articoli generati automaticamente</description><language>it-it</language><item><title>Titolo dell'articolo di esempio</title><link>https://vitasalute.altervista.org/titolo-articolo</link><description>Contenuto dell'articolo di esempio generato oggi.</description><pubDate>Tue, 17 Jun 2025 19:04:01 +0000</pubDate></item></channel></rss>
